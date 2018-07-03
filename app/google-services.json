@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "652209050777",
+    "firebase_url": "https://quizappserbia.firebaseio.com",
+    "project_id": "quizappserbia",
+    "storage_bucket": "quizappserbia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652209050777:android:122aac05be09d8c7",
+        "android_client_info": {
+          "package_name": "rs.fon.quizserbia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652209050777-8bvgqtdsb7vu8p2nodp7s05sjpfbvlhu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rs.fon.quizserbia",
+            "certificate_hash": "b92c5c6fc492e4850589c905e0b55de4306b3939"
+          }
+        },
+        {
+          "client_id": "652209050777-rvgo0isljh7g6alfeqnvge9kpb8p1iok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYH7MHuELd0r3Ab6Xr-hwKA9DJzLCPBs8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652209050777-rvgo0isljh7g6alfeqnvge9kpb8p1iok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
